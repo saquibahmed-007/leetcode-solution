@@ -7,8 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/saquibahmed-007/160926737031ita/tree/main/0704-binary-search/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/saquibahmed-007/160926737031ita/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/saquibahmed-007/160926737031ita/tree/main/0704-binary-search/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/saquibahmed-007/160926737031ita/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
