@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/saquibahmed-007/160926737031ita/tree/main/0704-binary-search/) | Easy |
+| [0867-transpose-matrix](https://github.com/saquibahmed-007/160926737031ita/tree/main/0867-transpose-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/saquibahmed-007/160926737031ita/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -16,4 +17,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/saquibahmed-007/160926737031ita/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/saquibahmed-007/160926737031ita/tree/main/0867-transpose-matrix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/saquibahmed-007/160926737031ita/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
